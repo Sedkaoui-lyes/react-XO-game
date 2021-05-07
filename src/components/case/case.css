@@ -1,0 +1,13 @@
+
+.g-case{
+    width: 9rem;
+    height: 9rem;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.g-case span{
+    font-weight: bold;
+    font-size: 3.5rem;
+}
